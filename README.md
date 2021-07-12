@@ -49,3 +49,7 @@ Send an example request:
 ```bash
 curl http://localhost:8000/api/tip/2020/01/max
 ```
+
+---
+
+![](cloud_diagram.png)
